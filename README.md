@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Configuration
+Install all the packets using `npm i`
+Install the axios packet to api communication and else like styled-components `npm install axios styled-components @types/styled-components`
+
 ## Available Scripts
 
 In the project directory, you can run:
